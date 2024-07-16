@@ -1,6 +1,6 @@
-# Challenge Literalura 👩‍💻
+# Challenge Literalura 
 
-## ¡Bienvenido(a) a Literalura! 📚
+## ¡Bienvenido(a) a Literalura! 
 Literalura es una aplicación que te permite gestionar tu biblioteca personal de libros.
 
 ## ¿Qué puedes hacer con Literalura? 📋
@@ -11,6 +11,6 @@ Literalura es una aplicación que te permite gestionar tu biblioteca personal de
 - Obtener el top 10 de libros más buscados.
 - Generar estadísticas sobre las descargas de libros.
 
-## ¿Cómo funciona Literalura? 👩‍🏫
+## ¿Cómo funciona Literalura? 
 Literalura utiliza una API externa para obtener información sobre libros y autores: [Gutendex API](https://gutendex.com/). También almacena información en una base de datos local para que puedas acceder a ella incluso sin conexión a internet.
 
